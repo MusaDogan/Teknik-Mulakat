@@ -12,4 +12,4 @@ yenı= str("sheild")
 cumle = re.sub(ara,yenı,metin)
 
 print (cumle)
-
+#istediğiniz gibi for/forech kullanımı ile yapamadım ancak bu yöntemle yapabildim. For/foreach üstünde çalışmaya devam ediyorum.
